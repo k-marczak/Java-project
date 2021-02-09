@@ -1,0 +1,2262 @@
+oval
+77
+42
+6
+15
+triangle
+17
+17
+13
+14
+38
+29
+oval
+85
+98
+14
+1
+rectangle
+95
+65
+4
+34
+triangle
+32
+6
+95
+31
+4
+64
+triangle
+71
+33
+7
+76
+0
+8
+triangle
+71
+11
+56
+80
+67
+85
+triangle
+86
+51
+58
+33
+68
+59
+rectangle
+84
+44
+10
+2
+rectangle
+60
+5
+6
+31
+rectangle
+75
+49
+3
+3
+triangle
+6
+11
+35
+32
+35
+83
+rectangle
+63
+45
+2
+29
+rectangle
+23
+41
+63
+58
+rectangle
+63
+91
+3
+6
+rectangle
+52
+29
+20
+52
+oval
+59
+29
+28
+47
+triangle
+26
+69
+6
+43
+41
+94
+triangle
+57
+62
+44
+30
+63
+11
+triangle
+68
+64
+48
+45
+5
+21
+triangle
+72
+46
+51
+71
+9
+75
+triangle
+25
+41
+56
+44
+87
+19
+rectangle
+69
+95
+17
+3
+oval
+48
+54
+19
+7
+rectangle
+1
+35
+44
+8
+rectangle
+87
+13
+5
+37
+oval
+x = 83
+26
+x = 13
+62
+rectangle
+x = 83
+82
+x = 10
+17
+triangle
+x = 19
+y = 54
+x = 18
+y = 85
+x = 35
+y = 33
+oval
+x = 80
+y = 35
+x = 1
+y = 56
+triangle
+x = 95
+y = 6
+x = 24
+y = 67
+x = 29
+y = 3
+oval
+x = 40
+y = 70
+x = 49
+y = 1
+oval
+x = 77
+y = 29
+x = 15
+y = 23
+triangle
+x = 12
+y = 62
+x = 70
+y = 20
+x = 56
+y = 45
+oval
+x = 7
+y = 79
+x = 82
+y = 7
+triangle
+x = 55
+y = 21
+x = 63
+y = 44
+x = 23
+y = 63
+oval
+x = 50
+y = 13
+x = 24
+y = 61
+oval
+x = 27
+y = 44
+x = 36
+y = 4
+rectangle
+x = 78
+y = 30
+x = 3
+y = 37
+rectangle
+x = 28
+y = 46
+x = 8
+y = 17
+triangle
+x = 61
+y = 76
+x = 28
+y = 18
+x = 5
+y = 53
+oval
+x = 42
+y = 21
+x = 54
+y = 31
+triangle
+x = 18
+y = 19
+x = 62
+y = 65
+x = 26
+y = 84
+triangle
+x = 64
+y = 20
+x = 66
+y = 62
+x = 58
+y = 96
+triangle
+x = 73
+y = 47
+x = 62
+y = 45
+x = 60
+y = 81
+rectangle
+x = 12
+y = 3
+x = 46
+y = 39
+rectangle
+x = 21
+y = 35
+x = 48
+y = 39
+triangle
+x = 24
+y = 11
+x = 59
+y = 54
+x = 57
+y = 3
+oval
+x = 16
+y = 7
+x = 49
+y = 77
+oval
+x = 94
+y = 50
+x = 2
+y = 23
+triangle
+x = 95
+y = 66
+x = 85
+y = 21
+x = 63
+y = 62
+rectangle
+x = 10
+y = 65
+x = 78
+y = 24
+rectangle
+x = 60
+y = 82
+x = 33
+y = 7
+oval
+x = 91
+y = 72
+x = 6
+y = 16
+oval
+x = 29
+y = 65
+x = 42
+y = 29
+oval
+x = 35
+y = 62
+x = 55
+y = 2
+rectangle
+x = 0
+y = 76
+x = 44
+y = 23
+triangle
+x = 40
+y = 23
+x = 78
+y = 45
+x = 96
+y = 61
+rectangle
+x = 81
+y = 95
+x = 10
+y = 2
+rectangle
+x = 75
+y = 49
+x = 10
+y = 10
+triangle
+x = 42
+y = 45
+x = 57
+y = 65
+x = 67
+y = 84
+triangle
+x = 75
+y = 76
+x = 26
+y = 1
+x = 90
+y = 2
+triangle
+x = 31
+y = 15
+x = 41
+y = 55
+x = 11
+y = 10
+triangle
+x = 26
+y = 26
+x = 2
+y = 58
+x = 63
+y = 15
+oval
+x = 88
+y = 13
+x = 5
+y = 55
+triangle
+x = 34
+y = 49
+x = 88
+y = 42
+x = 7
+y = 66
+oval
+x = 57
+y = 19
+x = 9
+y = 14
+triangle
+x = 97
+y = 57
+x = 7
+y = 42
+x = 88
+y = 28
+oval
+x = 2
+y = 96
+x = 23
+y = 1
+rectangle
+x = 63
+y = 71
+x = 30
+y = 9
+rectangle
+x = 43
+y = 84
+x = 46
+y = 2
+triangle
+x = 64
+y = 12
+x = 36
+y = 42
+x = 92
+y = 24
+triangle
+x = 35
+y = 28
+x = 23
+y = 82
+x = 7
+y = 79
+oval
+x = 95
+y = 0
+x = 4
+y = 75
+rectangle
+x = 20
+y = 91
+x = 65
+y = 6
+oval
+x = 61
+y = 25
+x = 36
+y = 16
+oval
+x = 42
+y = 49
+x = 30
+y = 12
+rectangle
+x = 94
+y = 56
+x = 2
+y = 7
+oval
+x = 80
+y = 59
+x = 1
+y = 17
+rectangle
+x = 35
+y = 33
+x = 55
+y = 44
+oval
+x = 20
+y = 26
+x = 12
+y = 72
+rectangle
+x = 78
+y = 65
+x = 2
+y = 1
+triangle
+x = 65
+y = 98
+x = 94
+y = 54
+x = 67
+y = 52
+rectangle
+x = 57
+y = 6
+x = 18
+y = 37
+rectangle
+x = 60
+y = 32
+x = 32
+y = 29
+triangle
+x = 71
+y = 3
+x = 21
+y = 39
+x = 28
+y = 52
+triangle
+x = 96
+y = 50
+x = 82
+y = 90
+x = 24
+y = 45
+rectangle
+x = 23
+y = 31
+x = 38
+y = 36
+rectangle
+x = 92
+y = 82
+x = 2
+y = 9
+rectangle
+x = 6
+y = 18
+x = 72
+y = 70
+oval
+x = 5
+y = 43
+x = 41
+y = 8
+rectangle
+x = 89
+y = 49
+x = 6
+y = 36
+rectangle
+x = 66
+y = 95
+x = 28
+y = 1
+oval
+x = 96
+y = 54
+x = 2
+y = 11
+oval
+x = 16
+y = 39
+x = 29
+y = 35
+triangle
+x = 28
+y = 2
+x = 41
+y = 44
+x = 38
+y = 19
+oval
+x = 47
+y = 10
+x = 25
+y = 58
+triangle
+x = 1
+y = 34
+x = 71
+y = 42
+x = 97
+y = 38
+oval
+x = 50
+y = 47
+x = 46
+y = 23
+rectangle
+x = 32
+y = 44
+x = 31
+y = 48
+rectangle
+x = 55
+y = 33
+x = 1
+y = 37
+triangle
+x = 75
+y = 18
+x = 31
+y = 35
+x = 23
+y = 43
+rectangle
+x = 62
+y = 82
+x = 15
+y = 13
+triangle
+x = 3
+y = 76
+x = 3
+y = 73
+x = 70
+y = 91
+rectangle
+x = 65
+y = 30
+x = 27
+y = 14
+triangle
+x = 9
+y = 23
+x = 64
+y = 39
+x = 56
+y = 44
+oval
+x = 13
+y = 30
+x = 27
+y = 12
+oval
+x = 90
+y = 47
+x = 6
+y = 36
+oval
+x = 23
+y = 34
+x = 34
+y = 37
+rectangle
+x = 41
+y = 30
+x = 29
+y = 30
+triangle
+x = 11
+y = 86
+x = 43
+y = 30
+x = 90
+y = 67
+rectangle
+x = 88
+y = 94
+x = 11
+y = 4
+oval
+x = 56
+y = 42
+x = 26
+y = 22
+rectangle
+x = 97
+y = 49
+x = 1
+y = 4
+rectangle
+x = 43
+y = 60
+x = 5
+y = 28
+triangle
+x = 84
+y = 1
+x = 74
+y = 75
+x = 1
+y = 76
+triangle
+x = 40
+y = 39
+x = 64
+y = 6
+x = 30
+y = 26
+rectangle
+x = 12
+y = 65
+x = 17
+y = 20
+rectangle
+x = 90
+y = 20
+x = 6
+y = 71
+triangle
+x = 81
+y = 16
+x = 84
+y = 82
+x = 71
+y = 57
+oval
+x = 83
+y = 77
+x = 7
+y = 7
+triangle
+x = 67
+y = 18
+x = 14
+y = 87
+x = 3
+y = 36
+triangle
+x = 4
+y = 28
+x = 41
+y = 86
+x = 62
+y = 98
+triangle
+x = 78
+y = 89
+x = 75
+y = 7
+x = 40
+y = 62
+oval
+x = 85
+y = 30
+x = 14
+y = 17
+triangle
+x = 9
+y = 31
+x = 49
+y = 8
+x = 77
+y = 91
+oval
+x = 19
+y = 44
+x = 38
+y = 14
+oval
+x = 23
+y = 18
+x = 17
+y = 34
+triangle
+x = 76
+y = 48
+x = 11
+y = 41
+x = 60
+y = 47
+rectangle
+x = 26
+y = 95
+x = 65
+y = 1
+triangle
+x = 87
+y = 73
+x = 10
+y = 68
+x = 98
+y = 16
+rectangle
+x = 86
+y = 3
+x = 13
+y = 77
+triangle
+x = 55
+y = 69
+x = 57
+y = 40
+x = 39
+y = 11
+oval
+x = 70
+y = 90
+x = 25
+y = 5
+oval
+x = 26
+y = 21
+x = 44
+y = 5
+triangle
+x = 34
+y = 69
+x = 46
+y = 25
+x = 72
+y = 8
+oval
+x = 18
+y = 40
+x = 34
+y = 29
+oval
+x = 16
+y = 6
+x = 55
+y = 39
+rectangle
+x = 35
+y = 97
+x = 7
+y = 2
+rectangle
+x = 61
+y = 11
+x = 27
+y = 63
+triangle
+x = 90
+y = 76
+x = 45
+y = 58
+x = 33
+y = 84
+triangle
+x = 16
+y = 60
+x = 91
+y = 91
+x = 58
+y = 93
+rectangle
+x = 32
+y = 58
+x = 30
+y = 34
+triangle
+x = 76
+y = 73
+x = 45
+y = 86
+x = 20
+y = 15
+triangle
+x = 39
+y = 14
+x = 69
+y = 82
+x = 38
+y = 35
+rectangle
+x = 65
+y = 42
+x = 25
+y = 31
+rectangle
+x = 35
+y = 79
+x = 13
+y = 7
+triangle
+x = 77
+y = 0
+x = 48
+y = 40
+x = 34
+y = 20
+triangle
+x = 46
+y = 45
+x = 2
+y = 89
+x = 72
+y = 92
+oval
+x = 61
+y = 5
+x = 18
+y = 50
+oval
+x = 39
+y = 36
+x = 49
+y = 36
+triangle
+x = 22
+y = 56
+x = 77
+y = 69
+x = 52
+y = 28
+rectangle
+x = 9
+y = 44
+x = 28
+y = 24
+triangle
+x = 69
+y = 73
+x = 40
+y = 87
+x = 79
+y = 9
+oval
+x = 45
+y = 8
+x = 11
+y = 77
+rectangle
+x = 50
+y = 50
+x = 22
+y = 12
+oval
+x = 74
+y = 48
+x = 11
+y = 35
+triangle
+x = 29
+y = 79
+x = 57
+y = 73
+x = 31
+y = 35
+triangle
+x = 5
+y = 83
+x = 81
+y = 85
+x = 79
+y = 64
+oval
+x = 54
+y = 59
+x = 23
+y = 8
+triangle
+x = 50
+y = 29
+x = 70
+y = 93
+x = 23
+y = 86
+triangle
+x = 25
+y = 27
+x = 48
+y = 86
+x = 1
+y = 3
+oval
+x = 63
+y = 74
+x = 3
+y = 21
+rectangle
+x = 68
+y = 55
+x = 5
+y = 24
+rectangle
+x = 39
+y = 4
+x = 14
+y = 15
+rectangle
+x = 67
+y = 17
+x = 10
+y = 35
+oval
+x = 56
+y = 28
+x = 16
+y = 24
+oval
+x = 36
+y = 23
+x = 34
+y = 22
+rectangle
+x = 16
+y = 88
+x = 1
+y = 5
+rectangle
+x = 10
+y = 89
+x = 19
+y = 1
+oval
+x = 76
+y = 20
+x = 9
+y = 73
+rectangle
+x = 51
+y = 70
+x = 26
+y = 26
+rectangle
+x = 3
+y = 94
+x = 56
+y = 1
+rectangle
+x = 17
+y = 6
+x = 64
+y = 18
+rectangle
+x = 72
+y = 83
+x = 2
+y = 6
+triangle
+x = 33
+y = 10
+x = 17
+y = 18
+x = 9
+y = 70
+rectangle
+x = 56
+y = 56
+x = 25
+y = 8
+triangle
+x = 73
+y = 9
+x = 36
+y = 54
+x = 30
+y = 67
+oval
+x = 33
+y = 94
+x = 61
+y = 3
+triangle
+x = 28
+y = 2
+x = 73
+y = 57
+x = 40
+y = 0
+oval
+x = 76
+y = 33
+x = 4
+y = 9
+oval
+x = 12
+y = 82
+x = 40
+y = 12
+rectangle
+x = 21
+y = 41
+x = 55
+y = 20
+oval
+x = 91
+y = 17
+x = 8
+y = 66
+triangle
+x = 31
+y = 34
+x = 46
+y = 81
+x = 26
+y = 41
+oval
+x = 49
+y = 19
+x = 27
+y = 13
+triangle
+x = 93
+y = 83
+x = 56
+y = 0
+x = 47
+y = 64
+triangle
+x = 44
+y = 19
+x = 54
+y = 17
+x = 73
+y = 45
+triangle
+x = 76
+y = 55
+x = 46
+y = 97
+x = 22
+y = 68
+triangle
+x = 18
+y = 63
+x = 91
+y = 33
+x = 77
+y = 26
+rectangle
+x = 91
+y = 81
+x = 6
+y = 15
+rectangle
+x = 44
+y = 92
+x = 47
+y = 3
+oval
+x = 57
+y = 6
+x = 20
+y = 59
+oval
+x = 23
+y = 60
+x = 53
+y = 22
+oval
+x = 69
+y = 93
+x = 22
+y = 6
+oval
+x = 66
+y = 6
+x = 19
+y = 6
+rectangle
+x = 89
+y = 16
+x = 6
+y = 49
+triangle
+x = 71
+y = 3
+x = 71
+y = 47
+x = 22
+y = 28
+triangle
+x = 14
+y = 84
+x = 15
+y = 70
+x = 67
+y = 38
+oval
+x = 16
+y = 34
+x = 35
+y = 59
+triangle
+x = 60
+y = 89
+x = 76
+y = 45
+x = 44
+y = 45
+rectangle
+x = 17
+y = 69
+x = 75
+y = 30
+triangle
+x = 41
+y = 10
+x = 32
+y = 34
+x = 9
+y = 23
+triangle
+x = 5
+y = 25
+x = 94
+y = 35
+x = 22
+y = 10
+oval
+x = 44
+y = 37
+x = 19
+y = 47
+oval
+x = 19
+y = 55
+x = 40
+y = 6
+rectangle
+x = 66
+y = 96
+x = 15
+y = 2
+triangle
+x = 33
+y = 62
+x = 23
+y = 13
+x = 47
+y = 4
+triangle
+x = 11
+y = 14
+x = 31
+y = 53
+x = 35
+y = 75
+triangle
+x = 58
+y = 84
+x = 21
+y = 12
+x = 28
+y = 10
+triangle
+x = 68
+y = 25
+x = 11
+y = 44
+x = 30
+y = 39
+oval
+x = 15
+y = 95
+x = 51
+y = 4
+oval
+x = 39
+y = 1
+x = 56
+y = 12
+rectangle
+x = 29
+y = 90
+x = 46
+y = 4
+triangle
+x = 42
+y = 57
+x = 45
+y = 9
+x = 36
+y = 18
+rectangle
+x = 25
+y = 3
+x = 8
+y = 51
+rectangle
+x = 47
+y = 11
+x = 48
+y = 66
+triangle
+x = 7
+y = 9
+x = 17
+y = 67
+x = 83
+y = 42
+triangle
+x = 65
+y = 13
+x = 10
+y = 78
+x = 24
+y = 72
+triangle
+x = 76
+y = 19
+x = 2
+y = 16
+x = 12
+y = 34
+rectangle
+x = 49
+y = 66
+x = 43
+y = 3
+triangle
+x = 50
+y = 17
+x = 32
+y = 26
+x = 12
+y = 6
+rectangle
+x = 88
+y = 80
+x = 10
+y = 1
+rectangle
+x = 30
+y = 89
+x = 18
+y = 8
+triangle
+x = 22
+y = 6
+x = 33
+y = 68
+x = 75
+y = 68
+triangle
+x = 96
+y = 0
+x = 3
+y = 83
+x = 1
+y = 2
+triangle
+x = 74
+y = 36
+x = 22
+y = 62
+x = 1
+y = 55
+rectangle
+x = 82
+y = 41
+x = 7
+y = 22
+rectangle
+x = 59
+y = 21
+x = 31
+y = 57
+triangle
+x = 65
+y = 65
+x = 25
+y = 1
+x = 14
+y = 27
+rectangle
+x = 85
+y = 66
+x = 5
+y = 18
+oval
+x = 32
+y = 91
+x = 56
+y = 6
+rectangle
+x = 10
+y = 23
+x = 52
+y = 50
+triangle
+x = 65
+y = 94
+x = 9
+y = 4
+x = 34
+y = 5
+rectangle
+x = 71
+y = 24
+x = 2
+y = 19
+rectangle
+x = 36
+y = 32
+x = 34
+y = 54
+oval
+x = 20
+y = 1
+x = 52
+y = 71
+oval
+x = 21
+y = 21
+x = 69
+y = 1
+triangle
+x = 55
+y = 97
+x = 4
+y = 1
+x = 40
+y = 1
+triangle
+x = 94
+y = 83
+x = 2
+y = 10
+x = 1
+y = 4
+triangle
+x = 24
+y = 91
+x = 12
+y = 4
+x = 10
+y = 5
+rectangle
+x = 6
+y = 51
+x = 32
+y = 33
+rectangle
+x = 18
+y = 9
+x = 54
+y = 21
+triangle
+x = 22
+y = 71
+x = 19
+y = 19
+x = 42
+y = 25
+rectangle
+x = 43
+y = 48
+x = 49
+y = 32
+triangle
+x = 65
+y = 75
+x = 5
+y = 19
+x = 23
+y = 7
+triangle
+x = 46
+y = 74
+x = 35
+y = 20
+x = 47
+y = 14
+rectangle
+x = 46
+y = 35
+x = 43
+y = 50
+rectangle
+x = 24
+y = 60
+x = 50
+y = 35
+rectangle
+x = 62
+y = 0
+x = 26
+y = 61
+rectangle
+x = 28
+y = 83
+x = 59
+y = 6
+rectangle
+x = 53
+y = 6
+x = 5
+y = 58
+rectangle
+x = 77
+y = 20
+x = 22
+y = 45
+rectangle
+x = 28
+y = 49
+x = 51
+y = 22
+rectangle
+x = 32
+y = 78
+x = 13
+y = 15
+triangle
+x = 77
+y = 23
+x = 6
+y = 42
+x = 4
+y = 36
+rectangle
+x = 95
+y = 3
+x = 1
+y = 49
+triangle
+x = 73
+y = 23
+x = 18
+y = 74
+x = 12
+y = 60
+rectangle
+x = 76
+y = 33
+x = 20
+y = 64
+triangle
+x = 67
+y = 56
+x = 13
+y = 4
+x = 12
+y = 8
+triangle
+x = 94
+y = 55
+x = 1
+y = 16
+x = 5
+y = 34
+triangle
+x = 55
+y = 47
+x = 11
+y = 1
+x = 13
+y = 12
+oval
+x = 68
+y = 27
+x = 25
+y = 48
+rectangle
+x = 5
+y = 49
+x = 54
+y = 24
+triangle
+x = 83
+y = 44
+x = 11
+y = 40
+x = 13
+y = 48
+rectangle
+x = 73
+y = 78
+x = 26
+y = 12
+rectangle
+x = 66
+y = 32
+x = 17
+y = 65
+oval
+x = 80
+y = 8
+x = 7
+y = 1
+triangle
+x = 45
+y = 46
+x = 10
+y = 17
+x = 15
+y = 33
+oval
+x = 87
+y = 57
+x = 2
+y = 39
+triangle
+x = 14
+y = 9
+x = 59
+y = 8
+x = 61
+y = 28
+triangle
+x = 86
+y = 59
+x = 7
+y = 28
+x = 1
+y = 7
+oval
+x = 47
+y = 91
+x = 2
+y = 5
+triangle
+x = 95
+y = 35
+x = 1
+y = 8
+x = 1
+y = 19
+rectangle
+x = 34
+y = 60
+x = 39
+y = 18
+triangle
+x = 91
+y = 39
+x = 6
+y = 15
+x = 5
+y = 59
+rectangle
+x = 92
+y = 83
+x = 6
+y = 3
+rectangle
+x = 61
+y = 19
+x = 4
+y = 56
+triangle
+x = 73
+y = 76
+x = 6
+y = 23
+x = 8
+y = 19
+rectangle
+x = 77
+y = 38
+x = 22
+y = 25
+rectangle
+x = 44
+y = 38
+x = 22
+y = 36
+triangle
+x = 55
+y = 51
+x = 18
+y = 24
+x = 6
+y = 14
+triangle
+x = 51
+y = 75
+x = 18
+y = 19
+x = 13
+y = 3
+oval
+x = 11
+y = 85
+x = 84
+y = 4
+rectangle
+x = 42
+y = 63
+x = 11
+y = 1
+triangle
+x = 68
+y = 43
+x = 12
+y = 33
+x = 10
+y = 23
+triangle
+x = 69
+y = 17
+x = 17
+y = 49
+x = 30
+y = 70
+oval
+x = 65
+y = 35
+x = 18
+y = 29
+oval
+x = 89
+y = 9
+x = 5
+y = 3
+triangle
+x = 36
+y = 79
+x = 35
+y = 5
+x = 32
+y = 1
+triangle
+x = 80
+y = 57
+x = 15
+y = 5
+x = 13
+y = 41
+triangle
+x = 8
+y = 78
+x = 70
+y = 11
+x = 48
+y = 10
+oval
+x = 22
+y = 68
+x = 11
+y = 3
+rectangle
+x = 32
+y = 62
+x = 13
+y = 18
+oval
+x = 83
+y = 94
+x = 7
+y = 2
+triangle
+x = 34
+y = 28
+x = 6
+y = 45
+x = 37
+y = 15
+rectangle
+x = 44
+y = 17
+x = 1
+y = 56
+triangle
+x = 63
+y = 50
+x = 22
+y = 16
+x = 9
+y = 9
+rectangle
+x = 10
+y = 71
+x = 75
+y = 20
+rectangle
+x = 82
+y = 73
+x = 14
+y = 11
+rectangle
+x = 15
+y = 3
+x = 54
+y = 85
+triangle
+x = 93
+y = 64
+x = 6
+y = 17
+x = 3
+y = 27
+rectangle
+x = 2
+y = 3
+x = 30
+y = 79
+rectangle
+x = 26
+y = 1
+x = 67
+y = 90
+oval
+x = 11
+y = 14
+x = 42
+y = 53
+rectangle
+x = 54
+y = 81
+x = 14
+y = 8
+oval
+x = 7
+y = 56
+x = 44
+y = 14
+oval
+x = 91
+y = 80
+x = 5
+y = 15
+triangle
+x = 95
+y = 10
+x = 4
+y = 14
+x = 4
+y = 81
+oval
+x = 75
+y = 36
+x = 19
+y = 22
+oval
+x = 9
+y = 7
+x = 78
+y = 2
+triangle
+x = 9
+y = 94
+x = 31
+y = 4
+x = 25
+y = 3
+triangle
+x = 1
+y = 83
+x = 5
+y = 14
+x = 27
+y = 10
+triangle
+x = 91
+y = 42
+x = 7
+y = 15
+x = 8
+y = 13
+oval
+x = 27
+y = 25
+x = 19
+y = 40
+oval
+x = 65
+y = 62
+x = 15
+y = 14
+triangle
+x = 79
+y = 58
+x = 20
+y = 35
+x = 8
+y = 8
+triangle
+x = 66
+y = 66
+x = 7
+y = 32
+x = 2
+y = 4
+triangle
+x = 41
+y = 96
+x = 53
+y = 1
+x = 17
+y = 3
+triangle
+x = 55
+y = 74
+x = 10
+y = 23
+x = 9
+y = 17
+rectangle
+x = 82
+y = 96
+x = 15
+y = 2
+triangle
+x = 38
+y = 48
+x = 15
+y = 21
+x = 40
+y = 43
+rectangle
+x = 34
+y = 61
+x = 31
+y = 31
+rectangle
+x = 2
+y = 85
+x = 25
+y = 2
+oval
+x = 76
+y = 75
+x = 19
+y = 10
+rectangle
+x = 95
+y = 26
+x = 2
+y = 59
+oval
+x = 74
+y = 94
+x = 20
+y = 5
+oval
+x = 25
+y = 52
+x = 26
+y = 14
+rectangle
+x = 63
+y = 54
+x = 16
+y = 40
+triangle
+x = 88
+y = 66
+x = 10
+y = 2
+x = 11
+y = 9
+rectangle
+x = 98
+y = 0
+x = 1
+y = 59
+rectangle
+x = 55
+y = 0
+x = 18
+y = 2
+oval
+x = 78
+y = 58
+x = 10
+y = 8
+oval
+x = 89
+y = 14
+x = 4
+y = 65
+oval
+x = 36
+y = 77
+x = 4
+y = 14
+rectangle
+x = 94
+y = 18
+x = 4
+y = 23
+rectangle
+x = 51
+y = 22
+x = 47
+y = 66
+triangle
+x = 41
+y = 3
+x = 58
+y = 66
+x = 57
+y = 55
+oval
+x = 6
+y = 4
+x = 58
+y = 87
+oval
+x = 94
+y = 77
+x = 1
+y = 11
+rectangle
+x = 2
+y = 11
+x = 89
+y = 82
+oval
+x = 20
+y = 57
+x = 4
+y = 29
+triangle
+x = 18
+y = 95
+x = 57
+y = 2
+x = 19
+y = 1
+rectangle
+x = 44
+y = 11
+x = 2
+y = 74
+oval
+x = 81
+y = 77
+x = 18
+y = 17
+rectangle
+x = 44
+y = 96
+x = 30
+y = 1
+oval
+x = 34
+y = 59
+x = 49
+y = 14
+triangle
+x = 65
+y = 77
+x = 2
+y = 19
+x = 33
+y = 21
+triangle
+x = 20
+y = 13
+x = 2
+y = 56
+x = 63
+y = 40
+triangle
+x = 98
+y = 30
+x = 1
+y = 24
+x = 1
+y = 35
+triangle
+x = 18
+y = 77
+x = 39
+y = 2
+x = 72
+y = 22
+oval
+x = 84
+y = 29
+x = 14
+y = 38
+oval
+x = 65
+y = 2
+x = 8
+y = 56
+oval
+x = 44
+y = 60
+x = 24
+y = 31
+triangle
+x = 4
+y = 24
+x = 60
+y = 21
+x = 48
+y = 23
+triangle
+x = 31
+y = 92
+x = 26
+y = 1
+x = 60
+y = 5
+oval
+x = 44
+y = 16
+x = 30
+y = 17
+rectangle
+x = 65
+y = 14
+x = 32
+y = 2
+rectangle
+x = 9
+y = 50
+x = 78
+y = 19
+triangle
+x = 19
+y = 84
+x = 13
+y = 8
+x = 55
+y = 15
+rectangle
+x = 62
+y = 77
+x = 6
+y = 15
+triangle
+x = 21
+y = 7
+x = 74
+y = 17
+x = 38
+y = 45
+oval
+x = 5
+y = 27
+x = 87
+y = 34
+rectangle
+x = 2
+y = 38
+x = 51
+y = 49
+oval
+x = 7
+y = 48
+x = 4
+y = 38
+triangle
+x = 9
+y = 0
+x = 68
+y = 2
+x = 9
+y = 9
+oval
+x = 48
+y = 39
+x = 30
+y = 50
+oval
+x = 86
+y = 19
+x = 1
+y = 79
+oval
+x = 0
+y = 73
+x = 9
+y = 21
+triangle
+x = 14
+y = 61
+x = 30
+y = 20
+x = 68
+y = 16
+triangle
+x = 16
+y = 97
+x = 50
+y = 2
+x = 16
+y = 2
+triangle
+x = 88
+y = 16
+x = 9
+y = 76
+x = 1
+y = 22
+oval
+x = 27
+y = 74
+x = 2
+y = 23
+rectangle
+x = 15
+y = 90
+x = 82
+y = 7
+rectangle
+x = 51
+y = 29
+x = 38
+y = 50
+oval
+x = 56
+y = 23
+x = 21
+y = 52
+triangle
+x = 92
+y = 49
+x = 5
+y = 47
+x = 6
+y = 1
+rectangle
+x = 31
+y = 2
+x = 32
+y = 96
+rectangle
+x = 27
+y = 25
+x = 11
+y = 17
+triangle
+x = 96
+y = 73
+x = 2
+y = 19
+x = 3
+y = 3
+rectangle
+x = 46
+y = 23
+x = 22
+y = 40
+rectangle
+x = 26
+y = 14
+x = 54
+y = 42
+triangle
+x = 22
+y = 60
+x = 44
+y = 19
+x = 9
+y = 10
+oval
+x = 58
+y = 37
+x = 13
+y = 34
+rectangle
+x = 74
+y = 26
+x = 1
+y = 66
+rectangle
+x = 88
+y = 98
+x = 6
+y = 1
+rectangle
+x = 14
+y = 26
+x = 81
+y = 21
+oval
+x = 5
+y = 76
+x = 20
+y = 10
+oval
+x = 45
+y = 58
+x = 39
+y = 32
+triangle
+x = 22
+y = 58
+x = 23
+y = 8
+x = 4
+y = 41
+triangle
+x = 66
+y = 85
+x = 29
+y = 11
+x = 22
+y = 3
+oval
+x = 28
+y = 49
+x = 16
+y = 36
+oval
+x = 32
+y = 88
+x = 32
+y = 11
+oval
+x = 3
+y = 48
+x = 11
+y = 13
